@@ -1,3 +1,13 @@
+_G.Key = "HELLO"
+
+local keychecked = false
+local hwid = nill
+local hwidplr = game:GetService("RbxAnalyticsService"):GetClientId()
+
+if _G.Key == "HELLO"
+   
+end
+
 getgenv().config = getgenv().config or {
 	hit_time = 0.25, -- // recommended 0.25 to 0.75 \\ --
 	
